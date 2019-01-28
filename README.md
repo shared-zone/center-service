@@ -1,5 +1,4 @@
 ## Center-Service
-    中心服务器
     
 ### Dependents
 
